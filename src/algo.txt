@@ -1,1 +1,5 @@
-vamos 
+Esto sirve para subir al github
+abren git bash
+git add *
+git commit -m "mi primer commit"
+git push origin master
